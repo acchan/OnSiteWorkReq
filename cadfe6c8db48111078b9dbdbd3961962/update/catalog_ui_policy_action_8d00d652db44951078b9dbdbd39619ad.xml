@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="On-Site Work Request">358c8e16db04951078b9dbdbd39619fd</catalog_item>
+        <catalog_variable>IO:1abe4e9adb04951078b9dbdbd3961961</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:09:46</sys_created_on>
+        <sys_id>8d00d652db44951078b9dbdbd39619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>video_conferencing</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8d00d652db44951078b9dbdbd39619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:09:46</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'video_conferencing' hidden depending on 'request_type'">99cf0e12db44951078b9dbdbd396196f</ui_policy>
+        <variable>video_conferencing</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

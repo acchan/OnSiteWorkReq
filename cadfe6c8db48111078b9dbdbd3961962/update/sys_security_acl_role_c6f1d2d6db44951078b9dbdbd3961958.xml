@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:18:18</sys_created_on>
+        <sys_id>c6f1d2d6db44951078b9dbdbd3961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.on-site-work-request.*.snc_internal</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_security_acl display_value="now.on-site-work-request.*">7df1d2d6c244951027a9dae225272d3a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c6f1d2d6db44951078b9dbdbd3961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:18:18</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>20f152d6db44951078b9dbdbd396194f</transaction_id>
+    </sys_security_acl_role>
+</record_update>

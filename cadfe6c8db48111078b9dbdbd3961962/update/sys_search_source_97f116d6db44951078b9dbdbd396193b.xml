@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_snc_an_on_site_0_on_site_work_request">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>On-Site Work Request - x_snc_an_on_site_0_on_site_</name>
+        <roles/>
+        <source_table>x_snc_an_on_site_0_on_site_work_request</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:18:23</sys_created_on>
+        <sys_id>97f116d6db44951078b9dbdbd396193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On-Site Work Request - x_snc_an_on_site_0_on_site_</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_update_name>sys_search_source_97f116d6db44951078b9dbdbd396193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:18:23</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=97f116d6db44951078b9dbdbd396193b"/>
+</record_update>
