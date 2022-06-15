@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="On-Site Work Request Config">f1f1d2d6be449510a7fa97b19e2c073b</app_config>
+        <description/>
+        <fields/>
+        <icon>graduation-cap-outline</icon>
+        <name>Agent assist</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>agentassisttab</route_type>
+        <screen_type display_value="Agent assist tab">d15fd4970f0210107d20409dc4767e08</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:18:17</sys_created_on>
+        <sys_id>39f1d2d63c4495108b3eb901001be53a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent assist</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_update_name>sys_ux_app_route_39f1d2d63c4495108b3eb901001be53a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:18:17</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=39f1d2d63c4495108b3eb901001be53a"/>
+</record_update>

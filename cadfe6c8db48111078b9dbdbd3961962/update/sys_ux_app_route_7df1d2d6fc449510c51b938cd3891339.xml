@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="On-Site Work Request Config">f1f1d2d6be449510a7fa97b19e2c073b</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>All Dashboards</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>all-dashboards</route_type>
+        <screen_type display_value="All Dashboards">fdf1d2d6ba4495106408b2f4e3f96639</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:18:19</sys_created_on>
+        <sys_id>7df1d2d6fc449510c51b938cd3891339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_update_name>sys_ux_app_route_7df1d2d6fc449510c51b938cd3891339</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:18:19</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=7df1d2d6fc449510c51b938cd3891339"/>
+</record_update>

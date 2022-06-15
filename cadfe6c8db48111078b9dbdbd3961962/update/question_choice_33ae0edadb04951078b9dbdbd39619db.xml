@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Are you requesting a hotel cube or conference room?">203ec65adb04951078b9dbdbd39619ce</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:03:57</sys_created_on>
+        <sys_id>33ae0edadb04951078b9dbdbd39619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conference room</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_update_name>question_choice_33ae0edadb04951078b9dbdbd39619db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:03:57</sys_updated_on>
+        <text>Conference room</text>
+        <value>conference_room</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=33ae0edadb04951078b9dbdbd39619db"/>
+</record_update>

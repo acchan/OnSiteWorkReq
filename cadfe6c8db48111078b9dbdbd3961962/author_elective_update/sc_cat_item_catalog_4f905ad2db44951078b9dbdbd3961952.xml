@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="On-Site Work Request">358c8e16db04951078b9dbdbd39619fd</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:12:22</sys_created_on>
+        <sys_id>4f905ad2db44951078b9dbdbd3961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.On-Site Work Request</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_4f905ad2db44951078b9dbdbd3961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:12:22</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</application>
+        <file_path/>
+        <instance_id>f288166fdb164d10387021c405961961</instance_id>
+        <instance_name>asato1demo</instance_name>
+        <name>sc_cat_item_catalog_4f905ad2db44951078b9dbdbd3961952</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="On-Site Work Request">358c8e16db04951078b9dbdbd39619fd</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-15 02:12:22</sys_created_on><sys_id>4f905ad2db44951078b9dbdbd3961952</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.On-Site Work Request</sys_name><sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package><sys_policy/><sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope><sys_update_name>sc_cat_item_catalog_4f905ad2db44951078b9dbdbd3961952</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-15 02:12:22</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-85066901</payload_hash>
+        <record_name>Service Catalog.On-Site Work Request</record_name>
+        <reverted_from/>
+        <source>b75072ccdb48111078b9dbdbd39619c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:12:22</sys_created_on>
+        <sys_id>03905ad2db44951078b9dbdbd39619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1816522189d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:12:22</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>cb905ad213449510d197720857b03155</update_guid>
+        <update_guid_history>cb905ad213449510d197720857b03155:-85066901</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.On-Site Work Request">a5a01ed2db44951078b9dbdbd39619a9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-15 02:12:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>009319d3305b429488d42bc26fd8fa10</sys_id>
+        <sys_metadata>4f905ad2db44951078b9dbdbd3961952</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.On-Site Work Request</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_snc_an_on_site_0">cadfe6c8db48111078b9dbdbd3961962</sys_package>
+        <sys_parent display_value="On-Site Work Request">358c8e16db04951078b9dbdbd39619fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">cadfe6c8db48111078b9dbdbd3961962</sys_scope>
+        <sys_scope_delete display_value="">314521bca64f47759d168b622dba04e9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_4f905ad2db44951078b9dbdbd3961952</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_4f905ad2db44951078b9dbdbd3961952">03905ad2db44951078b9dbdbd39619a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-15 02:12:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
